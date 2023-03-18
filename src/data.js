@@ -79,7 +79,7 @@ export const ToursData=[
         duration:'6 days',
         cost:2100,
         img:tour_1,
-        text:' Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumquevitae tempore voluptatum maxime reprehenderieum quod exercitationem fugit, qui corporis.',
+        text:' Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumquevitae tempore voluptatum maxime reprehenderieum quod exercitationem fugit, qui corporis.sss',
     },
     {
         id:2,
